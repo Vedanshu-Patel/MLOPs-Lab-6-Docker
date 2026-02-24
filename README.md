@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍷 Neural Wine — AI-Powered Wine Classifier
 
 A machine learning web application that classifies wine into three categories based on 13 chemical properties. Built with TensorFlow/Keras, Flask, and Docker.
@@ -149,4 +148,3 @@ Sample json for testing:
   "od280_od315": 1.51,
   "proline": 650.0
 }
->>>>>>> 59b5a20d1b33ec144f7eac0dcb61d59e4774a182
