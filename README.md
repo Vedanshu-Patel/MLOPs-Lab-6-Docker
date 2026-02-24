@@ -127,9 +127,7 @@ The model expects these 13 features (from the Wine dataset):
 - Docker 20.10+
 - Docker Compose v2+ (for `docker-compose`)
 
-=======
-
-Sample json for testing:
+## Sample json for testing:
 ```json
 {
   "alcohol": 12.51,
@@ -147,8 +145,6 @@ Sample json for testing:
   "proline": 650.0
 }
 ```
-
-=======
 
 # Docker Cheatsheet
 
